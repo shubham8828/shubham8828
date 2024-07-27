@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shubham Vishwakarma</h1>
 <h3 align="center">A Professional MERN Stack developer from India</h3>
-<img align="right" alt="Coding" width="https://prompti.ai/wp-content/uploads/2023/07/pcboi2.png">
+<img align="right" alt="Coding" width=200 src= "https://prompti.ai/wp-content/uploads/2023/07/pcboi2.png">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham8828&label=Profile%20views&color=0e75b6&style=flat" alt="shubham8828" /> </p>
-- 🌱 I’m currently learning **React, Node.js Mongodb**
+- 🌱 I’m Currently Working **MERN Stack**<br>
 - 📫 How to reach me **skv6621@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
