@@ -4,7 +4,7 @@
         alt="Coding" width=200 
         style="border-radius:30px ;"
         src="https://prompti.ai/wp-content/uploads/2023/07/pcboi2.png"
-    >
+    />
 
     <p align="left"> <img
             src="https://komarev.com/ghpvc/?username=shubham8828&label=Profile%20views&color=0e75b6&style=flat"
