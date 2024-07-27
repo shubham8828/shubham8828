@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Vishwakarma</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
-<img align="right" alt="Coding" width="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif " onerror="this.scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw22giuF3LhIXkv6-Mx_R7C9&ust=1709309013858000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDtp7f20IQDFQAAAAAdAAAAABAZ"">
+<img align="right" alt="Coding" width="https://www.google.com/url?sa=i&url=https%3A%2F%2Fprompti.ai%2Fcool-coder-logo%2F&psig=AOvVaw2symUu2p8XRToigZsj6FCK&ust=1722163648084000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCpxd2Fx4cDFQAAAAAdAAAAABAE " onerror="this.scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw22giuF3LhIXkv6-Mx_R7C9&ust=1709309013858000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDtp7f20IQDFQAAAAAdAAAAABAZ"">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham8828&label=Profile%20views&color=0e75b6&style=flat" alt="shubham8828" /> </p>
