@@ -10,7 +10,7 @@
             src="https://komarev.com/ghpvc/?username=shubham8828&label=Profile%20views&color=0e75b6&style=flat"
             alt="shubham8828" /> </p>
 
-    - 🌱 I’m currently working with ** MERN Stack** <br>
+    - 🌱 I’m currently working with ** MERN Stack** 
 
     - 📫 How to reach me **skv6621@gmail.com**
 
